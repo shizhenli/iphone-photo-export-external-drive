@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://iphone-photo-export-external-drive.pages.dev/sitemap.xml

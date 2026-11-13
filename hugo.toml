@@ -1,13 +1,33 @@
 baseURL = "https://iphone-photo-export-external-drive.pages.dev/"
 languageCode = "en-us"
-title = "iPhone Photo Export to External Drive"
+title = "iPhone Photo Export Help"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 [params]
-template_version = "v1.1.0"
-description = "Export iPhone photos to an external drive with a verified copy and checksum, without losing originals."
-category = "PC & Mac"
 source = "iphone-photo-export-external-drive"
+description = "Remote help exporting iPhone photos to an external drive and verifying counts, dates, Live Photos, and file readability."
 email = "hello@handytasklab.com"
+fallback_email_subject = "iPhone photo export help"
+fallback_email_fields = ["iPhone and iOS version", "Computer and drive format", "Export method used", "Missing or unreadable sample"]
+og_image = "images/social.jpg"
+footer_line = "Remote help for one device at a time."
+latest_kicker = "FROM THE BLOG"
+latest_title = "iPhone Photo Export Help Guides"
+theme_bg = "#E8F7FC"
+theme_surface = "#F2FBFD"
+theme_card = "#FFFFFF"
+theme_ink = "#182018"
+theme_muted = "#5D655F"
+theme_accent = "#07567C"
+theme_accent_ink = "#FFFFFF"
+theme_deep = "#232526"
+theme_deep_ink = "#FFFFFF"
+theme_header_ink = "#182018"
+theme_line = "#CFD8D8"
+theme_link = "#04354D"
+theme_scrim = "rgba(8,12,16,0.86)"
+theme_light = true
+hero_desktop_hd_width = 1376
+hero_mobile_hd_width = 768
 [markup.goldmark.renderer]
 unsafe = true
