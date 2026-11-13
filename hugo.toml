@@ -2,7 +2,9 @@ baseURL = "https://iphone-photo-export-external-drive.pages.dev/"
 languageCode = "en-us"
 title = "iPhone Photo Export to External Drive"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 [params]
+template_version = "v1.1.0"
 description = "Export iPhone photos to an external drive with a verified copy and checksum, without losing originals."
 category = "PC & Mac"
 source = "iphone-photo-export-external-drive"
