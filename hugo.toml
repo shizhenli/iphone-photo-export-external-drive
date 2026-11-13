@@ -1,7 +1,7 @@
 baseURL = "https://iphone-photo-export-external-drive.pages.dev/"
 languageCode = "en-us"
 title = "iPhone Photo Export Help"
-enableRobotsTXT = true
+enableRobotsTXT = false
 disableKinds = ["taxonomy", "term"]
 [params]
 source = "iphone-photo-export-external-drive"
