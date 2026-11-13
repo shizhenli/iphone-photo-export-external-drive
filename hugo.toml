@@ -1,0 +1,11 @@
+baseURL = "https://iphone-photo-export-external-drive.pages.dev/"
+languageCode = "en-us"
+title = "iPhone Photo Export to External Drive"
+enableRobotsTXT = true
+[params]
+description = "Export iPhone photos to an external drive with a verified copy and checksum, without losing originals."
+category = "PC & Mac"
+source = "iphone-photo-export-external-drive"
+email = "hello@handytasklab.com"
+[markup.goldmark.renderer]
+unsafe = true
