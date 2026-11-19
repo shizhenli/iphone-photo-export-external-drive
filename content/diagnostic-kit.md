@@ -17,7 +17,8 @@ preview_pdf: "/downloads/iphone-photo-export-external-drive-Free-Preview.pdf"
 
 <div class="product-buybox">
   <div><p class="product-kicker">What you get</p><p class="product-price">USD 9.00</p><p class="small">One-time payment. Instant digital download. The checkout button opens after the Live product is confirmed.</p></div>
-  <div class="product-cta-disabled" aria-disabled="true">Checkout opens after price confirmation</div>
+  <a class="button product-buy" href="https://www.creem.io/product/prod_1BX10KDkmf30N74EAm2mUz" rel="noopener">Buy now — USD 9.00</a>
+<p class="small">Secure checkout by Creem. Instant ZIP download after payment.</p>
 </div>
 
 <h2>Three routes for this failure</h2>
